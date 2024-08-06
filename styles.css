@@ -45,6 +45,39 @@ h1 {
     border: 1px solid #2d02ad;
 }
 
+.social-links {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-links li {
+    margin: 10px 0;
+}
+
+.social-links a {
+    color: #2d02ad;
+    font-size: 1.5em;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-links a:hover {
+    color: #fff;
+}
+
+.return-link {
+    display: block;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #2d02ad;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.return-link:hover {
+    color: #fff;
+}
+
 .barcode {
     font-family: 'Libre Barcode 128', cursive;
     
