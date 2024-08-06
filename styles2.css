@@ -44,6 +44,21 @@ p {
     padding: 0;
 }
 
+.social-links li {
+    margin: 10px 0;
+}
+
+.social-links a {
+    color: #2d02ad;
+    font-size: 1.5em;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-links a:hover {
+    color: #fff;
+}
+
 
 /* other fonts */
 .barcode {
