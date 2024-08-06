@@ -39,6 +39,11 @@ p {
     font-size: 1.2em;
 }
 
+.social-links {
+    list-style-type: none;
+    padding: 0;
+}
+
 
 /* other fonts */
 .barcode {
