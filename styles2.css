@@ -39,26 +39,14 @@ p {
     font-size: 1.2em;
 }
 
-.social-links {
-    list-style-type: none;
-    padding: 0;
-}
-
-.social-links li {
-    margin: 10px 0;
-}
-
-.social-links a {
+.socials-link {
+    display: block;
+    margin-top: 10px;
+    font-size: 1.2em;
     color: #2d02ad;
-    font-size: 1.5em;
     text-decoration: none;
     transition: color 0.3s;
 }
-
-.social-links a:hover {
-    color: #fff;
-}
-
 
 /* other fonts */
 .barcode {
